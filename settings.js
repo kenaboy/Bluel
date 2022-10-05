@@ -31,7 +31,7 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'your key',
+	'https://zenzapis.xyz': '18cebd9d-8eda-459c-b9ba-be41620e6b3a',
 }
 
 
